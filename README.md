@@ -5,7 +5,8 @@
   <h3>PPT:<a href = "https://www.canva.com/design/DAFi0TX7BRY/Ix2v82RtYli59khmCFOyMg/edit?utm_content=DAFi0TX7BRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> https://www.canva.com/design/DAFi0TX7BRY/Ix2v82RtYli59khmCFOyMg/edit?utm_content=DAFi0TX7BRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></h3>
   <hr/>
   <h2>Contributors</h2>
-  <pre><a href = "https://github.com/Coconut-ch1ken">~@vaishnavi-3969</a>
+  <pre align='left'>
+    <a href = "https://github.com/Coconut-ch1ken">~@vaishnavi-3969</a>
     <a href = "https://github.com/Cool-1-2-3-4-5">~@Cool-1-2-3-4-5</a>
     <a href = "https://github.com/PoPsMokE07">~@PoPsMokE07</a>
     <a href = "https://github.com/Coconut-ch1ken">~@Coconut-ch1ken</a>
