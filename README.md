@@ -6,10 +6,10 @@
   <hr/>
   <h2>Contributors</h2>
   <pre align='left'>
-    <a href = "https://github.com/Coconut-ch1ken">~@vaishnavi-3969</a>
-    <a href = "https://github.com/Cool-1-2-3-4-5">~@Cool-1-2-3-4-5</a>
-    <a href = "https://github.com/PoPsMokE07">~@PoPsMokE07</a>
-    <a href = "https://github.com/Coconut-ch1ken">~@Coconut-ch1ken</a>
+    <a href = "https://github.com/Coconut-ch1ken">~ @vaishnavi-3969</a>
+    <a href = "https://github.com/Cool-1-2-3-4-5">~ @Cool-1-2-3-4-5</a>
+    <a href = "https://github.com/PoPsMokE07">~ @PoPsMokE07</a>
+    <a href = "https://github.com/Coconut-ch1ken">~ @Coconut-ch1ken</a>
     </pre>
   <hr/>
   <h2>Screenshots</h2>
